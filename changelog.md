@@ -1,2 +1,1 @@
-﻿Se mejora el código gracias a @balaraz
-
+﻿Se crea primera versión.
