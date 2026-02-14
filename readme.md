@@ -1,4 +1,4 @@
-﻿# Corrector Ortográfico - Complemento para NVDA
+﻿## Corrector Ortográfico - Complemento para NVDA
 
 ## Descripción
 
@@ -7,7 +7,7 @@ Es un trabajo derivado del equipo original de Blind Pandas.
 
 ## Uso
 
-- **NVDA+Alt+S**: Verifica errores ortográficos para el texto seleccionado usando el idioma de entrada actual o el seleccionado.
+- **NVDA+Alt+S**: Verifica errores ortográficos para el texto seleccionado usando el idioma de entrada actual o el seleccionado. Luego de aceptar todas las sugerencias que querramos, pulsamos control + r para aceptar y aplicar los cambios.
 - **NVDA+Alt+Shift+L**: Alterna el método usado para determinar el idioma para la corrección ortográfica (elegido por el usuario vs idioma de entrada).
 
 ## Idiomas y Diccionarios
